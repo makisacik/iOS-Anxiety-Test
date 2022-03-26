@@ -1,0 +1,6 @@
+framework module Pods_AnxietyTest {
+  umbrella header "Pods-AnxietyTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,74 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2pS-JC-Cln"; */
+"2pS-JC-Cln.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7MF-0o-Klk"; */
+"7MF-0o-Klk.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Previous Tests"; ObjectID = "9cJ-kG-Kk9"; */
+"9cJ-kG-Kk9.normalTitle" = "Previous Tests";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AVq-pn-Qb2"; */
+"AVq-pn-Qb2.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "About the Test"; ObjectID = "HFp-QB-YRp"; */
+"HFp-QB-YRp.normalTitle" = "About the Test";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JO4-ck-M0n"; */
+"JO4-ck-M0n.text" = "Label";
+
+/* Class = "UILabel"; text = "Question"; ObjectID = "L4V-B8-d8R"; */
+"L4V-B8-d8R.text" = "Question";
+
+/* Class = "UIButton"; normalTitle = "Previous Tests"; ObjectID = "O0x-vX-Z7B"; */
+"O0x-vX-Z7B.normalTitle" = "Previous Tests";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UCZ-IL-dAt"; */
+"UCZ-IL-dAt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UKy-Re-inK"; */
+"UKy-Re-inK.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VoR-Ob-gHX"; */
+"VoR-Ob-gHX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Take Test"; ObjectID = "bi8-KN-fme"; */
+"bi8-KN-fme.normalTitle" = "Take Test";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ixS-cQ-ZHj"; */
+"ixS-cQ-ZHj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Previous Tests Chart:"; ObjectID = "jUS-C5-ULj"; */
+"jUS-C5-ULj.text" = "Previous Tests Chart:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jh2-dH-kti"; */
+"jh2-dH-kti.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kvh-cM-LDW"; */
+"kvh-cM-LDW.text" = "Label";
+
+/* Class = "UILabel"; text = "How to take the test ?"; ObjectID = "lgC-1k-dEP"; */
+"lgC-1k-dEP.text" = "How to take the test ?";
+
+/* Class = "UILabel"; text = "                Anxiety Test"; ObjectID = "mhF-Pp-dth"; */
+"mhF-Pp-dth.text" = "                Anxiety Test";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "n3e-39-FTT"; */
+"n3e-39-FTT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sd5-4f-O3i"; */
+"sd5-4f-O3i.text" = "Label";
+
+/* Class = "UILabel"; text = "Put a check to indicate how much you have experienced each symptom during the last two weeks including today"; ObjectID = "v1Y-ZV-YMZ"; */
+"v1Y-ZV-YMZ.text" = "Put a check to indicate how much you have experienced each symptom during the last two weeks including today";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vbd-R8-4Jx"; */
+"vbd-R8-4Jx.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "I Got It"; ObjectID = "xFs-cI-t39"; */
+"xFs-cI-t39.normalTitle" = "I Got It";
+
+/* Class = "UIButton"; normalTitle = "Main Menu"; ObjectID = "xnx-mC-T7r"; */
+"xnx-mC-T7r.normalTitle" = "Main Menu";
+
+"Anxiety Test" = "Angst Test";
