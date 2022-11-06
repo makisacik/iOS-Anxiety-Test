@@ -1,43 +1,43 @@
-"Anxiety Test" = "Angsttest";
-"Take Test" = "Starte Test";
-"Previous Tests" = "Meine vorherigen Tests";
-"About the Tests" = "Über die Tests";
-"Disclaimer and Copyright" = "Haftungsausschluss und Copyright";
+"anxiety_test" = "Angsttest";
+"take_test" = "Starte Test";
+"previous_tests" = "Meine vorherigen Tests";
+"about_test" = "Über die Tests";
+"disclaimer_and_copyright" = "Haftungsausschluss und Copyright";
 
-"Got It" = "Ich verstehe";
-"Put a check to indicate how much you have experienced each symptom during the last two weeks" = "Kreuzen Sie an, wie häufig Sie jedes Symptom in den letzten zwei Wochen erlebt haben";
-"How to take the test ?" = "Wie macht man den Test?";
+"got_it" = "Ich verstehe";
+"how_to_info" = "Kreuzen Sie an, wie häufig Sie jedes Symptom in den letzten zwei Wochen erlebt haben";
+"how_to_take" = "Wie macht man den Test?";
 
-"Not at all" = "Überhaupt nicht";
-"Several days" = "An einzelnen Tagen";
-"More than half of the days" = "An mehr als der Hälfte der Tage";
-"Nearly every day" = "Beinahe jeden Tag";
+"first_option" = "Überhaupt nicht";
+"second_option" = "An einzelnen Tagen";
+"third_option" = "An mehr als der Hälfte der Tage";
+"fourth_option" = "Beinahe jeden Tag";
 
-"Next" = "Nächste";
-"Back" = "Zurück";
+"next" = "Nächste";
+"back" = "Zurück";
 
-"1. Feeling nervous, anxious, or on edge" = "1. Nervosität, Ängstlichkeit oder Anspannung";
-"2. Not being able to stop or control worrying" = "2. Nicht in der Lage sein, Sorgen zu stoppen oder zu kontrollieren";
-"3. Worrying too much about different things" = "3. Übermäßige Sorgen bezüglich verschiedener Angelegenheiten";
-"4. Trouble relaxing " = "4. Schwierigkeiten zu entspannen";
-"5. Being so restless that it is hard to sit still " = "5. Rastlosigkeit, so dass Stillsitzen schwer fällt";
-"6. Becoming easily annoyed or irritable " = "6. Schnelle Verärgerung oder Gereiztheit";
-"7. Feeling afraid, as if something awful might happen" = "7. Gefühl der Angst, so als würde etwas Schlimmes passieren";
+"first_question" = "1. Nervosität, Ängstlichkeit oder Anspannung";
+"second_question" = "2. Nicht in der Lage sein, Sorgen zu stoppen oder zu kontrollieren";
+"third_question" = "3. Übermäßige Sorgen bezüglich verschiedener Angelegenheiten";
+"fourth_question" = "4. Schwierigkeiten zu entspannen";
+"fifth_question" = "5. Rastlosigkeit, so dass Stillsitzen schwer fällt";
+"sixth_question" = "6. Schnelle Verärgerung oder Gereiztheit";
+"seventh_question" = "7. Gefühl der Angst, so als würde etwas Schlimmes passieren";
 
-"Interpreting the results:\n0 to 4 = Mild anxiety\n5 to 9 = Moderate anxiety\n10 to 14 = Moderately severe anxiety\n15 to 21 = Severe anxiety\n" = "Interpretation der Ergebnisse:\n0 to 4 = Leichte Angst\n5 to 9 = Mäßige Angst\n10 to 14 = Mäßig schwere Angst\n15 to 21 = Schwere Angst\n";
+"interpreting_results" = "Interpretation der Ergebnisse:\n0 to 4 = Leichte Angst\n5 to 9 = Mäßige Angst\n10 to 14 = Mäßig schwere Angst\n15 to 21 = Schwere Angst\n";
 
-"Main Menu" = "Hauptmenü";
-"My Previous Tests" = "Meine vorherigen Tests";
-"Total score : "= "Gesamtpunktzahl : ";
+"main_menu" = "Hauptmenü";
+"previous_tests" = "Meine vorherigen Tests";
+"total_score" = "Gesamtpunktzahl : ";
 
-"As Table: " = "Als Tabelle:";
-"As Chart: " = "Als Grafik:";
+"as_table" = "Als Tabelle:";
+"as_chart" = "Als Grafik:";
 
-"Points" = "Punkte";
-"Date : " = "Datum : ";
-"Chart of Previous Results:" = "Grafik der bisherigen Ergebnisse:";
+"points" = "Punkte";
+"date" = "Datum : ";
+"chart_of_previous" = "Grafik der bisherigen Ergebnisse:";
 
-"Disclaimer: This app is for information only and should not be used for the diagnosis or treatment of medical conditions. Creator of this app  has used all reasonable care in compiling the information but make no warranty as to its accuracy. accuracy. Consult a doctor or other health care professional for diagnosis and treatment of medical conditions \n\n Copyright: The GAD-7 originates from Spitzer RL, Kroenke K, Williams JB, et al; A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7. GAD-7 © Pfizer Inc. all rights reserved." = "Haftungsausschluss: Diese App dient nur zur Information und sollte nicht für die Diagnose oder Behandlung von Krankheiten verwendet werden. Der Ersteller dieser App hat bei der Zusammenstellung der Informationen alle angemessene Sorgfalt walten lassen, übernimmt jedoch keine Garantie für deren Richtigkeit. Wenden Sie sich für die Diagnose und Behandlung von Krankheiten an einen Arzt oder eine andere medizinische Fachkraft \n\n Copyright: Der GAD-7 stammt von Spitzer RL, Kroenke K, Williams JB, et al; A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7. GAD-7 © Pfizer Inc. Alle Rechte vorbehalten.";
+"disclaimer" = "Haftungsausschluss: Diese App dient nur zur Information und sollte nicht für die Diagnose oder Behandlung von Krankheiten verwendet werden. Der Ersteller dieser App hat bei der Zusammenstellung der Informationen alle angemessene Sorgfalt walten lassen, übernimmt jedoch keine Garantie für deren Richtigkeit. Wenden Sie sich für die Diagnose und Behandlung von Krankheiten an einen Arzt oder eine andere medizinische Fachkraft \n\n Copyright: Der GAD-7 stammt von Spitzer RL, Kroenke K, Williams JB, et al; A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7. GAD-7 © Pfizer Inc. Alle Rechte vorbehalten.";
 
-"This questionnaire called the GAD-7 screening tool can help you find out if you might have an anxiety disorder that needs treatment. It calculates how many common symptoms you have and based on your answers suggests where you might be on a scale, from mild to severe anxiety. The results of this test is not a substitute for a medical treatment , if you have medical problems we strongly insist you to consult a professional." = "Dieser Fragebogen, das so genannte GAD-7-Screening-Tool, kann Ihnen helfen herauszufinden, ob Sie möglicherweise an einer behandlungsbedürftigen Angststörung leiden. Er berechnet, wie viele häufige Symptome Sie haben, und schlägt auf der Grundlage Ihrer Antworten vor, wo Sie auf einer Skala von leichter bis schwerer Angst stehen könnten. Die Ergebnisse dieses Tests sind kein Ersatz für eine medizinische Behandlung. Wenn Sie medizinische Probleme haben, empfehlen wir Ihnen dringend, einen Fachmann zu konsultieren.";
+"about" = "Dieser Fragebogen, das so genannte GAD-7-Screening-Tool, kann Ihnen helfen herauszufinden, ob Sie möglicherweise an einer behandlungsbedürftigen Angststörung leiden. Er berechnet, wie viele häufige Symptome Sie haben, und schlägt auf der Grundlage Ihrer Antworten vor, wo Sie auf einer Skala von leichter bis schwerer Angst stehen könnten. Die Ergebnisse dieses Tests sind kein Ersatz für eine medizinische Behandlung. Wenn Sie medizinische Probleme haben, empfehlen wir Ihnen dringend, einen Fachmann zu konsultieren.";
 

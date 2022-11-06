@@ -5,3 +5,48 @@
   Created by Mehmet Ali Kısacık on 30.08.2021.
   
 */
+
+"anxiety_test" = "Anxiety Test";
+"take_test" = "Take Test";
+"previous_tests" = "Previous Tests";
+"about_test" = "About the Tests";
+"disclaimer_and_copyright" = "Disclaimer and Copyright";
+
+"got_it" = "Got It";
+"how_to_info" = "Put a check to indicate how much you have experienced each symptom during the last two weeks";
+"how_to_take" = "How to take the test ?";
+
+"first_option" = "Not at all";
+"second_option" = "Several days";
+"third_option" = "More than half of the days";
+"fourth_option" = "Nearly every day";
+
+"next" = "Next";
+"back" = "Back";
+
+"first_question" = "1. Feeling nervous, anxious, or on edge";
+"second_question" = "2. Not being able to stop or control worrying";
+"third_question" = "3. Worrying too much about different things";
+"fourth_question" = "4. Trouble relaxing ";
+"fifth_question" = "5. Being so restless that it is hard to sit still ";
+"sixth_question" = "6. Becoming easily annoyed or irritable ";
+"seventh_question" = "7. Feeling afraid, as if something awful might happen";
+
+"interpreting_results" = "Interpreting the results:\n0 to 4 = Mild anxiety\n5 to 9 = Moderate anxiety\n10 to 14 = Moderately severe anxiety\n15 to 21 = Severe anxiety\n";
+
+"main_menu" = "Main Menu";
+"previous_tests" = "My Previous Tests";
+"total_score" = "Total score : ";
+
+"as_table" = "As Table: ";
+"as_chart" = "As Chart: ";
+
+"points" = "Points";
+"date" = "Date : ";
+
+"chart_of_previous" = "Chart of Previous Results:";
+
+"disclaimer" = "Disclaimer: This app is for information only and should not be used for the diagnosis or treatment of medical conditions. Creator of this app  has used all reasonable care in compiling the information but make no warranty as to its accuracy. accuracy. Consult a doctor or other health care professional for diagnosis and treatment of medical conditions \n\n Copyright: The GAD-7 originates from Spitzer RL, Kroenke K, Williams JB, et al; A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7. GAD-7 © Pfizer Inc. all rights reserved.";
+
+"about" = "This questionnaire called the GAD-7 screening tool can help you find out if you might have an anxiety disorder that needs treatment. It calculates how many common symptoms you have and based on your answers suggests where you might be on a scale, from mild to severe anxiety. The results of this test is not a substitute for a medical treatment , if you have medical problems we strongly insist you to consult a professional.";
+

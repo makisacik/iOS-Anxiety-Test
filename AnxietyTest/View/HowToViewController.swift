@@ -15,28 +15,27 @@ class HowToViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        gotItButton.setTitle("Got It".localized(), for: .normal)
-        infoLabel.text = "Put a check to indicate how much you have experienced each symptom during the last two weeks".localized()
-        howToLabel.text = "How to take the test ?".localized()
+        setup()
     }
-    
+
+    private func setup(){
+        gotItButton.setTitle("got_it".localized(), for: .normal)
+        infoLabel.text = "how_to_info".localized()
+        howToLabel.text = "how_to_take".localized()
+        gotItButton.layer.cornerRadius = 25
+    }
+
     @IBAction func gotItButtonPressed(_ sender: UIButton) {
         Questions.currentQuestion = 0
-        let real = sender.backgroundColor
+        let color = sender.backgroundColor ?? .blue
+
         UIView.animate(withDuration: 0.5){
             sender.backgroundColor = sender.tintColor
-            sender.backgroundColor = real
+            sender.backgroundColor = color
         }
-    }
-    
-    /*
-    // MARK: - Navigation
 
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+        guard let questionsViewController = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(identifier: String(describing: QuestionsViewController.self)) as? QuestionsViewController else { return }
+        questionsViewController.modalPresentationStyle = .fullScreen
+        navigationController?.pushViewController(questionsViewController, animated: true)
     }
-    */
-
 }

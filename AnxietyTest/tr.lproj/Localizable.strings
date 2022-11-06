@@ -1,44 +1,43 @@
-"Anxiety Test" = "Kaygı Testi";
-"Take Test" = "Teste Başla";
-"Previous Tests" = "Geçmiş Testler";
-"About the Tests" = "Test Hakkında";
-"Disclaimer and Copyright" = "Feragatname ve Telif hakkı";
+"anxiety_test" = "Kaygı Testi";
+"take_test" = "Teste Başla";
+"previous_tests" = "Geçmiş Testler";
+"about_test" = "Test Hakkında";
+"disclaimer_and_copyright" = "Feragatname ve Telif hakkı";
 
-"Got It" = "Tamam";
-"Put a check to indicate how much you have experienced each symptom during the last two weeks" = "Her belirtiyi son iki hafta içinde ne sıklıkla yaşadığınızı işaretleyin";
-"How to take the test ?" = "Test nasıl çözülür?";
+"got_it" = "Tamam";
+"how_to_info" = "Her belirtiyi son iki hafta içinde ne sıklıkla yaşadığınızı işaretleyin";
+"how_to_take" = "Test nasıl çözülür?";
 
-"Not at all" = "Hiç";
-"Several days" = "Sadece bir kaç gün";
-"More than half of the days" = "Günlerin yarısından fazla";
-"Nearly every day" = "Hemen hemen her gün";
+"first_option" = "Hiç";
+"second_option" = "Sadece bir kaç gün";
+"third_option" = "Günlerin yarısından fazla";
+"fourth_option" = "Hemen hemen her gün";
 
-"Next" = "İleri";
-"Back" = "Geri";
+"next" = "İleri";
+"back" = "Geri";
 
-"1. Feeling nervous, anxious, or on edge" = "1. Sinirli, kaygılı, uçurumun kenarındaymış gibi hissetme";
-"2. Not being able to stop or control worrying" = "2. Endişelenmeyi kontrol edememe ya da durduramama";
-"3. Worrying too much about different things" = "3. Farklı farklı konularda çok fazla endişelenme";
-"4. Trouble relaxing " = "4. Gevşeyip rahatlayamama";
-"5. Being so restless that it is hard to sit still " = "5. Yerinizde duramayacak kadar kıpır kıpır ve huzursuz olma";
-"6. Becoming easily annoyed or irritable " = "6. Kolayca kızma ya da rahatsız olma";
-"7. Feeling afraid, as if something awful might happen" = "7. Her an çok kötü bir şey olabileceği korkusu yaşama";
+"first_question" = "1. Sinirli, kaygılı, uçurumun kenarındaymış gibi hissetme";
+"second_question" = "2. Endişelenmeyi kontrol edememe ya da durduramama";
+"third_question" = "3. Farklı farklı konularda çok fazla endişelenme";
+"fourth_question" = "4. Gevşeyip rahatlayamama";
+"fifth_question" = "5. Yerinizde duramayacak kadar kıpır kıpır ve huzursuz olma";
+"sixth_question" = "6. Kolayca kızma ya da rahatsız olma";
+"seventh_question" = "7. Her an çok kötü bir şey olabileceği korkusu yaşama";
 
+"interpreting_results" = "Sonuçların Yorumlanması:\n0 to 4 = Hafif kaygı\n5 to 9 = Orta derece kaygı\n10 to 14 = Hafif siddetli kaygı\n15 to 21 = Şiddetli kaygı\n";
 
-"Interpreting the results:\n0 to 4 = Mild anxiety\n5 to 9 = Moderate anxiety\n10 to 14 = Moderately severe anxiety\n15 to 21 = Severe anxiety\n" = "Sonuçların Yorumlanması:\n0 to 4 = Hafif kaygı\n5 to 9 = Orta derece kaygı\n10 to 14 = Hafif siddetli kaygı\n15 to 21 = Şiddetli kaygı\n";
+"main_menu" = "Ana Menü";
+"previous_tests" = "Önceki Testlerim";
+"total_score" = "Toplam puan : ";
 
-"Main Menu" = "Ana Menü";
-"My Previous Tests" = "Önceki Testlerim";
-"Total score : "= "Toplam puan : ";
+"as_table" = "Liste olarak:";
+"as_chart" = "Grafik olarak:";
 
-"As Table: " = "Liste olarak:";
-"As Chart: " = "Grafik olarak:";
+"points" = "Puan";
+"date" = "Tarih : ";
+"chart_of_previous" = "Geçmiş sonuçların grafiği:";
 
-"Points" = "Puan";
-"Date : " = "Tarih : ";
-"Chart of Previous Results:" = "Geçmiş sonuçların grafiği:";
+"disclaimer" = "Sorumluluk Reddi: Bu uygulama yalnızca bilgi amaçlıdır ve tıbbi durumların teşhisi veya tedavisi için kullanılmamalıdır. Bu uygulamanın yaratıcısı, bilgileri derlerken tüm makul özeni göstermiş, ancak doğruluğu konusunda hiçbir garanti vermemiştir. kesinlik. Tıbbi durumların teşhisi ve tedavisi için bir doktora veya başka bir sağlık uzmanına danışın \n\n Telif hakkı: GAD-7, Spitzer RL, Kroenke K, Williams JB, et al; Genelleştirilmiş anksiyete bozukluğunu değerlendirmek için kısa bir ölçü: YAB-7. Arch Stajyer Med. 2006 22 Mayıs;166(10):1092-7. GAD-7 © Pfizer Inc. tüm hakları saklıdır.";
 
-"Disclaimer: This app is for information only and should not be used for the diagnosis or treatment of medical conditions. Creator of this app  has used all reasonable care in compiling the information but make no warranty as to its accuracy. accuracy. Consult a doctor or other health care professional for diagnosis and treatment of medical conditions \n\n Copyright: The GAD-7 originates from Spitzer RL, Kroenke K, Williams JB, et al; A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7. GAD-7 © Pfizer Inc. all rights reserved." = "Sorumluluk Reddi: Bu uygulama yalnızca bilgi amaçlıdır ve tıbbi durumların teşhisi veya tedavisi için kullanılmamalıdır. Bu uygulamanın yaratıcısı, bilgileri derlerken tüm makul özeni göstermiş, ancak doğruluğu konusunda hiçbir garanti vermemiştir. kesinlik. Tıbbi durumların teşhisi ve tedavisi için bir doktora veya başka bir sağlık uzmanına danışın \n\n Telif hakkı: GAD-7, Spitzer RL, Kroenke K, Williams JB, et al; Genelleştirilmiş anksiyete bozukluğunu değerlendirmek için kısa bir ölçü: YAB-7. Arch Stajyer Med. 2006 22 Mayıs;166(10):1092-7. GAD-7 © Pfizer Inc. tüm hakları saklıdır.";
-
-"This questionnaire called the GAD-7 screening tool can help you find out if you might have an anxiety disorder that needs treatment. It calculates how many common symptoms you have and based on your answers suggests where you might be on a scale, from mild to severe anxiety. The results of this test is not a substitute for a medical treatment , if you have medical problems we strongly insist you to consult a professional." = "GAD-7 tarama aracı olarak adlandırılan bu anket, tedavi gerektiren bir anksiyete bozukluğunuz olup olmadığını anlamanıza yardımcı olabilir. Kaç tane yaygın semptomunuz olduğunu hesaplar ve cevaplarınıza dayanarak, hafiften şiddetliye kadar bir ölçekte nerede olabileceğinizi gösterir. Bu testin sonuçları tıbbi tedavinin yerini tutmaz, tıbbi sorunlarınız varsa bir uzmana danışmanız konusunda ısrar ediyoruz.";
+"about" = "GAD-7 tarama aracı olarak adlandırılan bu anket, tedavi gerektiren bir anksiyete bozukluğunuz olup olmadığını anlamanıza yardımcı olabilir. Kaç tane yaygın semptomunuz olduğunu hesaplar ve cevaplarınıza dayanarak, hafiften şiddetliye kadar bir ölçekte nerede olabileceğinizi gösterir. Bu testin sonuçları tıbbi tedavinin yerini tutmaz, tıbbi sorunlarınız varsa bir uzmana danışmanız konusunda ısrar ediyoruz.";
 

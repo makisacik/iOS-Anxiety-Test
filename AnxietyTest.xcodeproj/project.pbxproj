@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		864675A326DE1E48004A365A /* Pods_AnxietyTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A573C12889FE353CF703F40 /* Pods_AnxietyTest.framework */; };
+		865DB8BF2911C72900CE897F /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 865DB8BE2911C72900CE897F /* CoreDataManager.swift */; };
 		86DD208626DC26E3006EF6B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86DD208526DC26E3006EF6B7 /* AppDelegate.swift */; };
 		86DD208826DC26E3006EF6B7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86DD208726DC26E3006EF6B7 /* SceneDelegate.swift */; };
 		86DD208D26DC26E3006EF6B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86DD208B26DC26E3006EF6B7 /* Main.storyboard */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		6A573C12889FE353CF703F40 /* Pods_AnxietyTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnxietyTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		865DB8BE2911C72900CE897F /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
 		86DD208226DC26E3006EF6B7 /* AnxietyTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnxietyTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86DD208526DC26E3006EF6B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		86DD208726DC26E3006EF6B7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		860A6C1F29171104008DE2F3 /* Questions */ = {
+			isa = PBXGroup;
+			children = (
+				86DD209D26DC2725006EF6B7 /* Questions.swift */,
+			);
+			path = Questions;
+			sourceTree = "<group>";
+		};
+		865DB8C02911C73C00CE897F /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				865DB8BE2911C72900CE897F /* CoreDataManager.swift */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
 		86DD207926DC26E3006EF6B7 = {
 			isa = PBXGroup;
 			children = (
@@ -91,8 +109,9 @@
 			children = (
 				86DD208526DC26E3006EF6B7 /* AppDelegate.swift */,
 				86DD208726DC26E3006EF6B7 /* SceneDelegate.swift */,
+				860A6C1F29171104008DE2F3 /* Questions */,
+				865DB8C02911C73C00CE897F /* CoreData */,
 				86DD20A726DC288B006EF6B7 /* Controller */,
-				86DD20A026DC272F006EF6B7 /* Model */,
 				86DD20A226DC2763006EF6B7 /* View */,
 				86DD209126DC26E8006EF6B7 /* Assets.xcassets */,
 				86DD209326DC26E8006EF6B7 /* LaunchScreen.storyboard */,
@@ -101,14 +120,6 @@
 				86DD20FF26DD0B4F006EF6B7 /* Localizable.strings */,
 			);
 			path = AnxietyTest;
-			sourceTree = "<group>";
-		};
-		86DD20A026DC272F006EF6B7 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				86DD209D26DC2725006EF6B7 /* Questions.swift */,
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 		86DD20A226DC2763006EF6B7 /* View */ = {
@@ -278,6 +289,7 @@
 				86DD20E726DCE3BC006EF6B7 /* ResultViewController.swift in Sources */,
 				86DD20B426DC2D21006EF6B7 /* MenuViewController.swift in Sources */,
 				86DD20F126DD080E006EF6B7 /* PreviousChartViewController.swift in Sources */,
+				865DB8BF2911C72900CE897F /* CoreDataManager.swift in Sources */,
 				86DD209026DC26E3006EF6B7 /* AnxietyTest.xcdatamodeld in Sources */,
 				86DD209E26DC2725006EF6B7 /* Questions.swift in Sources */,
 				86DD210B26DD4A99006EF6B7 /* AboutViewController.swift in Sources */,
@@ -443,8 +455,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FYS62UHY46;
 				INFOPLIST_FILE = AnxietyTest/Info.plist;
@@ -456,7 +468,7 @@
 				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = mehmetali.kisacik.AnxietyTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = AnxietyTest;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -468,8 +480,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FYS62UHY46;
 				INFOPLIST_FILE = AnxietyTest/Info.plist;
@@ -481,7 +493,7 @@
 				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = mehmetali.kisacik.AnxietyTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = AnxietyTest;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
